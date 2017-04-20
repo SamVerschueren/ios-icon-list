@@ -1,0 +1,34 @@
+{
+  "name": "ios-icon-list",
+  "version": "0.0.0",
+  "description": "List of the iOS app icons",
+  "license": "MIT",
+  "repository": "SamVerschueren/ios-icon-list",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "icons.json"
+  ],
+  "keywords": [
+    "ios",
+    "application",
+    "icons",
+    "list",
+    "data",
+    "ipa"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
