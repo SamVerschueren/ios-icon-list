@@ -70,5 +70,9 @@
 	{
 		"file": "icon@2x.png",
 		"dimension": 114
+	},
+	{
+		"file": "icon-1024.png",
+		"dimension": 1024
 	}
 ]
