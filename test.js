@@ -1,6 +1,6 @@
 import test from 'ava';
-import m from '.';
+import iosIconList from '.';
 
-test(t => {
-	t.true(m().length === 18);
+test('length of result array', t => {
+	t.true(iosIconList().length === 18);
 });
