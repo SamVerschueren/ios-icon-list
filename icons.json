@@ -1,5 +1,9 @@
 [
 	{
+		"file": "icon-20.png",
+		"dimension": 20
+	},
+	{
 		"file": "icon-40.png",
 		"dimension": 40
 	},
